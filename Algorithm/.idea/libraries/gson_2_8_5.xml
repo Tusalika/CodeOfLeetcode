@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gson-2.8.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/okhttp-3.14.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/okio-1.17.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
